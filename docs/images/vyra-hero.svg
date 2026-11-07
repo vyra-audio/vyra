@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none">
+  <defs>
+    <linearGradient id="background" x1="86" y1="26" x2="1184" y2="406" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101719"/>
+      <stop offset="1" stop-color="#080B0D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="156" y1="88" x2="548" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55E5BC"/>
+      <stop offset="1" stop-color="#00B875"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="674" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C98A" stop-opacity=".12"/>
+      <stop offset=".48" stop-color="#48E4BA"/>
+      <stop offset="1" stop-color="#39C78C" stop-opacity=".24"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(244 0 0 205 1003 207)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C98A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#00C98A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#E8FFF7" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="420" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="420" rx="22" fill="url(#grid)"/>
+  <rect width="1280" height="420" rx="22" fill="url(#glow)"/>
+  <path d="M1 360.5H1279" stroke="#D8FFF4" stroke-opacity=".09"/>
+  <path d="M1 1H1279V419H1z" stroke="#D8FFF4" stroke-opacity=".12" stroke-width="2" rx="22"/>
+
+  <g transform="translate(82 82)">
+    <path d="M13 16c0-7.18 5.82-13 13-13h26c9.1 0 17.25 5.72 20.34 14.28L118 139 163.66 17.28A21.62 21.62 0 0 1 184 3h26c7.18 0 13 5.82 13 13 0 1.55-.28 3.09-.82 4.54l-68 181.14C148.6 221.3 134.36 232 118 232s-30.6-10.7-36.18-30.32L13.82 20.54A13 13 0 0 1 13 16Z" fill="url(#accent)"/>
+  </g>
+  <text x="342" y="158" fill="#F2F7F5" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">VYRA</text>
+  <text x="345" y="198" fill="#AAB9B4" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="3.1">OPEN-SOURCE DJ MIXING</text>
+  <text x="345" y="253" fill="#D6E1DC" font-family="Segoe UI, Arial, sans-serif" font-size="20">Two decks. One focused workspace.</text>
+  <text x="345" y="284" fill="#91A39C" font-family="Segoe UI, Arial, sans-serif" font-size="15">A hands-on JUCE app for mixing, library management and MIDI control.</text>
+
+  <g transform="translate(840 58)">
+    <rect width="350" height="274" rx="16" fill="#111719" stroke="#40504A" stroke-opacity=".72"/>
+    <path d="M1 52H349" stroke="#40504A" stroke-opacity=".62"/>
+    <circle cx="23" cy="27" r="5" fill="#EF665B"/>
+    <circle cx="42" cy="27" r="5" fill="#E9B44E"/>
+    <circle cx="61" cy="27" r="5" fill="#36C78B"/>
+    <text x="82" y="31" fill="#87958F" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.5">DECK OVERVIEW</text>
+    <g opacity=".9" stroke="url(#wave)" stroke-width="2" stroke-linecap="round">
+      <path d="M28 103v18m8-31v44m8-36v28m8-48v68m8-38v20m8-30v40m8-51v61m8-44v26m8-37v47m8-28v20m8-42v64m8-50v36m8-26v17m8-40v60m8-49v37m8-29v15m8-38v60m8-43v26m8-34v42m8-51v60m8-38v16m8-31v47m8-41v35m8-26v17m8-48v78m8-61v44m8-36v28m8-48v68m8-39v19m8-29v39m8-52v65m8-46v29m8-36v43m8-53v62m8-42v22"/>
+      <path d="M28 163v17m8-29v40m8-35v30m8-47v63m8-36v22m8-31v45m8-53v60m8-41v25m8-34v46m8-31v16m8-42v65m8-48v32m8-24v17m8-40v58m8-47v35m8-26v18m8-38v58m8-42v27m8-34v43m8-50v58m8-38v17m8-31v47m8-42v36m8-25v17m8-47v77m8-60v43m8-36v28m8-46v64m8-38v20m8-31v42m8-52v65m8-44v28m8-36v44m8-52v62m8-41v22"/>
+    </g>
+    <path d="M152 83v105" stroke="#F0FFF8" stroke-opacity=".9"/>
+    <path d="M25 214H325" stroke="#35413D"/>
+    <rect x="28" y="232" width="126" height="22" rx="6" fill="#162722" stroke="#34715C"/>
+    <rect x="164" y="232" width="158" height="22" rx="6" fill="#161D1B" stroke="#34413B"/>
+    <text x="91" y="247" fill="#55DEB2" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1">DECK 01</text>
+    <text x="243" y="247" fill="#99A8A1" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1">DECK 02</text>
+  </g>
+  <text x="84" y="386" fill="#8D9A94" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1.4">JUCE 7  ·  C++20  ·  LOCAL LIBRARY  ·  MIDI LEARN</text>
+</svg>

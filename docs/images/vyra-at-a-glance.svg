@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="238" viewBox="0 0 1120 238" fill="none">
+  <rect width="1120" height="238" rx="18" fill="#0E1314"/>
+  <rect x="1" y="1" width="1118" height="236" rx="17" stroke="#303C38"/>
+  <path d="M280 28V210M560 28V210M840 28V210" stroke="#34403B"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="140" y="112" fill="#56E2B6" font-size="58" font-weight="700">02</text>
+    <text x="140" y="145" fill="#EFF6F2" font-size="14" font-weight="700" letter-spacing="1.8">MIXING DECKS</text>
+    <text x="140" y="172" fill="#91A29B" font-size="12">Independent playback &amp; control</text>
+
+    <text x="420" y="112" fill="#56E2B6" font-size="58" font-weight="700">04</text>
+    <text x="420" y="145" fill="#EFF6F2" font-size="14" font-weight="700" letter-spacing="1.8">AUTOMATED TEST SUITES</text>
+    <text x="420" y="172" fill="#91A29B" font-size="12">Audio · loops · library · MIDI</text>
+
+    <text x="700" y="112" fill="#56E2B6" font-size="58" font-weight="700">03</text>
+    <text x="700" y="145" fill="#EFF6F2" font-size="14" font-weight="700" letter-spacing="1.8">BAND CHANNEL EQ</text>
+    <text x="700" y="172" fill="#91A29B" font-size="12">Low · mid · high, per deck</text>
+
+    <text x="980" y="112" fill="#56E2B6" font-size="58" font-weight="700">14</text>
+    <text x="980" y="145" fill="#EFF6F2" font-size="14" font-weight="700" letter-spacing="1.8">BIT PITCH WHEEL</text>
+    <text x="980" y="172" fill="#91A29B" font-size="12">MIDI learn for continuous controls</text>
+  </g>
+</svg>
